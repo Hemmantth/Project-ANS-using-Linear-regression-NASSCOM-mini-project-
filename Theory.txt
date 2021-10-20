@@ -1,0 +1,20 @@
+Linear regrission
+terms in the project
+Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so. Machine learning algorithms use historical data as input to predict new output   values. Recommendation engines are a common use case for machine learning. Other popular uses include fraud detection, spam filtering, malware threat detection, business process automation (BPA) and predictive maintenance.
+data set :
+A data set is a collection of data. In the case of tabular data, a data set corresponds to one or more database tables, where every column of a table represents a particular variable, and each row corresponds to a given record of the data set in question.
+Data visualization :
+Data visualization  is an interdisciplinary field that deals with the graphic representation of data. It is a particularly efficient way of communicating when the data is numerous as for example a time series.
+Data cleaning :
+Data cleaning is the process of fixing or removing incorrect, corrupted, incorrectly formatted, duplicate, or incomplete data within a dataset. ... If data is incorrect, outcomes and algorithms are unreliable, even though they may look correct.
+Supervised learning (SL) is the machine learning task of learning a function that maps an input to an output based on example input-output pairs. ... A supervised learning algorithm analyzes the training data and produces an inferred function, which can be used for mapping new examples.
+simple linear regression :
+In statistics, simple linear regression is a linear regression model with a single explanatory variable.That is, it concerns two-dimensional sample points with one independent variable and one dependent variable (conventionally, the x and y coordinates in a Cartesian coordinate system) and finds a linear function (a non-vertical straight line) that, as accurately as possible, predicts the dependent variable values as a function of the independent variable. The adjective simple refers to the fact that the outcome variable is related to a single predictor.
+Formula
+y= a+ ß x
+ß	=	slope
+a	=	y-intercept
+y	=	y- coordinate
+x	=	x-coordinate
+training model :
+A training model is a dataset that is used to train an ML algorithm. It consists of the sample output data and the corresponding sets of input data that have an influence on the output. The training model is used to run the input data through the algorithm to correlate the processed output against the sample output.
